@@ -3,3 +3,6 @@ __pycache__/
 .venv/
 .env
 results/scores.json
+Apart Manipulation Evals Work Sample Skill.md
+.DS_Store
+baseline_stderr.log
